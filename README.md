@@ -19,7 +19,10 @@ HLD/LLD, Distributed Systems, Microservices, Event-Driven & Asynchronous Design,
 Programming & Frameworks:
 Java (Core/Enterprise), Spring Boot/Data/Security/AI, REST APIs, Microservices, JPA/Hibernate, Groovy, Struts, Web Services
 
-AI Skills: Spring AI (MCP Server & Client implementations), Retrieval Augmented Generation (RAG) using enterprise databases, LLM Integration in microservices architecture, Prompt Engineering for enterprise use cases, GitHub Copilot for accelerated development and code quality, AI-powered enterprise application design patterns, Context orchestration and tool calling workflows
+AI Skills: Spring AI (MCP Server & Client implementations), Retrieval Augmented Generation (RAG) using enterprise databases,
+LLM Integration in microservices architecture, Prompt Engineering for enterprise use cases,
+GitHub Copilot for accelerated development and code quality,
+ AI-powered enterprise application design patterns, Context orchestration and tool calling workflows
 
 Data & Storage: Oracle, Sybase ASE, Cassandra, H2, Derby, Redis, Coherence
 
