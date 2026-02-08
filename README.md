@@ -2,7 +2,7 @@
 
 ## 🏦 Senior Java Enterprise Architect | Financial Systems Expert
 
-With **nearly 20 years** of hands-on experience, I specialize in designing, building, and leading large-scale **Java-based enterprise systems** in **regulated financial environments**.
+With **nearly 20 years** of hands-on experience, I specialize in designing, building, and leading large-scale **enterprise systems** in **regulated financial environments**.
 
 ### 💼 Core Expertise
 - **Enterprise Architecture**: Designing resilient, scalable systems for mission-critical financial applications
